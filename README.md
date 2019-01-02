@@ -1,0 +1,2 @@
+# StokTakipGamze
+Stok Takip Proje
